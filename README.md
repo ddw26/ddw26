@@ -1,13 +1,13 @@
 ### Welcome 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Hemp Data Analytics
+- 🌱 I’m currently learning Python, SQL, Tableau, VBA, etc
+- 🤔 My interests are data sustainability, industrial hemp, regenerative real estate, natural architecture/building, regenerative farming and land rehabilitation
+- 💬 Ask me about
+
+
 - 📫 How to reach me: 
-   
    **Email: dwoods0898@protonmail.com**
-- ⚡ Fun fact: ...
+
 
